@@ -1,0 +1,14 @@
+.cartIcon{
+    position: relative;
+}
+.badgeIcon{
+    position: absolute;
+    top:-8px;
+    left: 17px;
+}
+.custombadgeIcon{
+    padding: 2px;
+    width: 13px;
+    height: 14px;
+    border-radius: 50%;
+}

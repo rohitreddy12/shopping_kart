@@ -1,0 +1,11 @@
+.itemsPage{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 30px;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+/* .shoppingItem{
+    flex-basis: 100%;
+} */

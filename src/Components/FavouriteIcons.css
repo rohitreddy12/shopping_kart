@@ -1,0 +1,10 @@
+.favourties button{
+    padding: 0px;
+    border: none;
+    width: min-content;
+    height: min-content;
+    background: none;
+    right: 20px;
+    position: absolute;
+    top: 10px;
+}

@@ -1,0 +1,13 @@
+.dropdown{
+    display: flex;
+    flex-direction: column;
+    width: max-content;
+}
+.dropdown button{
+    width: 100%;
+    padding: 10px;
+}
+
+
+
+
